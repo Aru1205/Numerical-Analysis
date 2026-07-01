@@ -1,2 +1,2 @@
 # Numerical-Analysis-
-MTH308 weekwise codes here
+MTH308 (in Python) and MTH430 (in MATLAB) weekwise codes here
